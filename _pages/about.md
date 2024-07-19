@@ -14,6 +14,6 @@ In my free time, I actively contribute to wildlife rehabilitation as a volunteer
 
 Feel free to explore my website further to learn more about my work and interests.
       </p>
-      <img src="IMG_6752.JPG" alt="Milo" style="width:150px;height:250px;margin-left:100px;">
+      <img src="milo.JPG" alt="Milo" style="width:150px;height:250px;margin-left:100px;">
     </section>
 
