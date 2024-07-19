@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://drive.google.com/drive/u/0/folders/18mZrvEdIEXfJYCKdb898DGBUKXbeCLdQ
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-"https://drive.google.com/drive/u/0/folders/18mZrvEdIEXfJYCKdb898DGBUKXbeCLdQ"
+
