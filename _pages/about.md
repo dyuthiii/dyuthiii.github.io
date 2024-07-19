@@ -14,6 +14,5 @@ In my free time, I actively contribute to wildlife rehabilitation as a volunteer
 
 Feel free to explore my website further to learn more about my work and interests.
      
-      <img src="milo.JPG" alt="Milo" style="width:150px;height:250px;margin-left:100px;">
   
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/milo.JPG)
+![alt text](https://github.com/dyuthiii/dyuthiii.github.io/blob/b713cc18aae803c4085ca224397b4723a995d776/images/milo.JPG)
