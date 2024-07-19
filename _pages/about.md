@@ -13,7 +13,7 @@ Hello! My name is Dyuthi, and I'm an enthusiastic researcher with a passion for 
 In my free time, I actively contribute to wildlife rehabilitation as a volunteer, fueling my passion for animal welfare. I have also been independently rescuing stray animals around Bangalore, India. 
 
 Feel free to explore my website further to learn more about my work and interests.
-      </p>
+     
       <img src="milo.JPG" alt="Milo" style="width:150px;height:250px;margin-left:100px;">
-    </section>
-
+  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/milo.JPG)
