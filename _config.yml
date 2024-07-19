@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Dyuthi Dinesh"
 title_separator          : "-"
 name                     : &name "Dyuthi Dinesh"
-description              : &description "personal description"
+description              : &description "sup"
 url                      : https://dyuthiii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dyuthiii/dyuthiii.github.io"
@@ -88,7 +88,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -233,32 +233,40 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+   - scope:
+       path: ""
+       type: teaching
+     values:
+       layout: single
+       author_profile: true
+       share: true
+       comments: true
+   _publications
+   - scope:
+       path: ""
+       type: publications
+     values:
+       layout: single
+       author_profile: true
+       share: true
+       comments: true
+  # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
