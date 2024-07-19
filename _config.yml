@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dyuthi Dinesh"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dyuthi Dinesh"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dyuthiii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dyuthiii/dyuthiii.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,33 +22,31 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dyuthi Dinesh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hello! My name is Dyuthi, and I'm an enthusiastic researcher with a passion for psychology. I graduated with an honors degree in B.Sc Psychology from the University of British Columbia. Throughout my academic journey, I actively participated in numerous research projects, taking on the role of the primary research assistant for two of them. These experiences have honed my skills in research design, implementation and data analytics. My specific interests lie in the fields of social psychology, neuroscience, behavior, cognition, and social media. You can find more details about my professional background in my CV."
+  location         : "New York, NY; Bangalore, India"
+  employer         : "Columbia University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dyuthinirupama@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=KwbMhPsAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0009-0008-3460-9355"
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "dyuthiii"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  "Dyuthi Dinesh https://www.linkedin.com/in/dyuthi-dinesh-3991bb127/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
