@@ -1,7 +1,7 @@
 ---
 title: "Differing Opinions: COVID-19 Study"
 collection: research
-type: "Honors Thesis, Directed study, Research Assistant"
+type: "research"
 permalink: /research/Differing Opinions: COVID-19 Study
 date: 2022-09-01
 venue: "University of British Columbia"
