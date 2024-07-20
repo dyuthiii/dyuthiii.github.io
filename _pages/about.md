@@ -15,4 +15,4 @@ In my free time, I volunteer for wildlife rehabilitation and have been independe
 Feel free to explore my website further to learn more about my work and interests.
 
 ## The Goodest Boy, Milo 
-<img src="/images/milo.JPG" width="450" height="550">
+<img src="/images/milo.JPG" width="350" height="550">
