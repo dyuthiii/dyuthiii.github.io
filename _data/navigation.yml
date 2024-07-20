@@ -3,20 +3,19 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentation"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "https://drive.google.com/file/d/1xtQmJ-DS8GrSzB2Nghvg_560HTGenF7c/view?usp=drive_link"
     
-  - title: "Guide"
-    url: /markdown/
+
