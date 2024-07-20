@@ -1,6 +1,6 @@
 ---
 title: "Differing Opinions: COVID-19 Study"
-permalink: /research/Differing Opinions: COVID-19 Study
+permalink: /research/"Differing Opinions: COVID-19 Study"
 date: 2022-09-01
 venue: "University of British Columbia"
 location: "Kelowna, BC"
