@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /_talks/IDHC.md
 venue: "University of British Columbia"
-date: 2021-04-012
+date: 2021-04-12
 location: "Kelowna, BC"
 ---
 
