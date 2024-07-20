@@ -14,10 +14,10 @@ Worked as a Teaching Assistant for undergraduate psychology, statistics, and dat
 ## Teaching Assistant, UBC
  
 
-### January 2022 - April 2022 \
-PSYO 271: Introduction to Data Analysis \
-PSYO 121: Introduction to Psychology: Personal Functioning \
+### January 2022 - April 2022
+PSYO 271: Introduction to Data Analysis 
+PSYO 121: Introduction to Psychology: Personal Functioning 
 
-### September 2020 - April 2021\
-PSYO 270: Introduction to Research Methods and Design \ 
-PSYO 111: Introduction to Psychology: Basic Processes \
+### September 2020 - April 2021
+PSYO 270: Introduction to Research Methods and Design  
+PSYO 111: Introduction to Psychology: Basic Processes 
