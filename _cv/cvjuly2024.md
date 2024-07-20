@@ -1,6 +1,6 @@
 ---
 title: "CV"
-permalink: /cv
+permalink: /cv/cvjuly2024
 author_profile: true
 redirect_from:
   - /resume
