@@ -1,7 +1,7 @@
 ---
 title: "Interdisciplinary Health Conference"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /_talks/IDHC.md
 venue: "University of British Columbia"
 date: 2021-04-12
