@@ -1,8 +1,9 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "TA"
+type: 
 permalink: /teaching/TA
+date: 2020 to 2022
 venue: "University of British Columbia"
 location: "Kelowna, BC"
 ---
