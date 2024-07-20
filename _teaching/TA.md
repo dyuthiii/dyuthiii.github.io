@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: 
+type: "Teaching"
 permalink: /teaching/TA
 date: 2020-09-01
 venue: "University of British Columbia"
