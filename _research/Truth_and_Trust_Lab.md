@@ -7,7 +7,8 @@ venue: "Truth and Trust Lab, University of British Columbia"
 location: "Kelowna, BC"
 ---
 
-### Directed Studies Student (PSYO 481A): Helped design a study to facilitate lie and truth conditions during a dyadic
+### Directed Studies Student (PSYO 481A)
+Helped design a study to facilitate lie and truth conditions during a dyadic
 conversation to evaluate deception detection in real-life conversations. Presented the study design and methods to the
 research team. Moderated interview-styled conversations between participants on Zoom.
 
