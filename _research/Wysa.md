@@ -7,8 +7,7 @@ venue: "Wysa Inc., Bangalore"
 location: "Bangalore, India"
 ---
 
-**Clinical Researcher, Research and Clinical Development, Wysa**
-
+### Clinical Researcher, Research and Clinical Development, Wysa
 *Responsibilities*: Working as a researcher with Wysa, an AI conversational agent for mental health support. Testing
 efficacy and usage using mixed-method approaches and RCTs. Conducting statistical testing, including sample size
 calculations, regression models, analyses of variance, logistic regressions, and simple descriptive and inferential statistics. Conducted R programming training sessions for the team.
