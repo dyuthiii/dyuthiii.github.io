@@ -34,19 +34,29 @@ Conducted all data cleaning and feasibility and demographic analyses (including 
 
 ### Wysa Reports
 *[Global Employee Mental Health Report](http://www.wysa.com/2023-emhr)*: Independently conducted all the data analysis for the report (including conceptualization of analyses).
+
 *[The Role of AI in Crisis Report](https://www.wysa.com/role-of-ai-in-sos)*: Independently conducted all the data analysis required for this report.
+
 *[AI in Mental Health Report](https://www.wysa.com/conversational-ai)*: Helped with literature review.
 
 ### Client Reports
 Singapore's Ministry of Health and Transportation (MOHT): Conducted quarterly data analysis and composed reports on client's anonymized users.
+
 BOSCH: Conducted Data analysis about Wysa uptake which was pivotal in the renewal of the contract. 
+
 Aetna: Conducted data analysis to highlight the reduction in depression and anxiety.
+
 Travelers: Carried out weekly data cleaning and sharing of data with the client.
+
 CHN: Carried out weekly data cleaning.
+
 UCSF: Carried out monthly data cleaning, and data analysis for monthly reports to the client.
 
 ### Internal Projects
 R-Training: Led an R-training session for the research team. Recorded to train future employees as well.
+
 Demographics: Put together a full report of Wysa user's demographics (where collected) to explore usage.
+
 Exploratory Factor Analysis: Helped conduct EFA/PCA to explore a proprietary Wysa measure. 
+
 Sample Size Estimations: Conducted thorough sample size estimations using GLIMMPSE and G*Power for GLMs.
