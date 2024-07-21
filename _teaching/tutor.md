@@ -10,6 +10,7 @@ location: "Kelowna, BC"
 
 ## Math and Science Tutor
 **January 2022 - April 2022**
+
 Math (100 level)
 
 Chemistry (100 and 200 levels)
@@ -20,4 +21,5 @@ Hosted tutor sessions for Math, Chemistry, and Biology. Explained complex concep
 
 ## Volunteer Tutor
 **January 2021 - April 2021**
-PSYO 271: Introduction to Data Analysis
+
+*PSYO 271: Introduction to Data Analysis*
