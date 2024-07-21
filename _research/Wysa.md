@@ -18,7 +18,7 @@ skills, Research design, Testing efficacy, Mixed-method approaches, Qualitative 
 search paper writing, R programming, Scientific writing, Presentation skills, Communication skills, Time management
 skills, Independent work, Teamwork, and Teaching.
 
-## Projects:
+## Projects
 ### Papers
 *[Language Adaptations of Mental Health Interventions](https://pubmed.ncbi.nlm.nih.gov/38798884/)*
 Conducted all analyses in this paper, and was the primary author for this paper. 
