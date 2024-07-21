@@ -1,3 +1,12 @@
+---
+title: "Wysa"
+type: research
+permalink: /research/Wysa
+date: 2022-09-01
+venue: "Wysa Inc., Bangalore"
+location: "Bangalore, India"
+---
+
 Clinical Researcher, Research and Clinical Development, Wysa September 2022 - Current
 Responsibilities: Working as a researcher with Wysa, an AI conversational agent for mental health support. Testing
 efficacy and usage using mixed-method approaches and RCTs. Conducting statistical testing, including sample size
