@@ -12,7 +12,7 @@ location: "Kelowna, BC"
 conversation to evaluate deception detection in real-life conversations. Presented the study design and methods to the
 research team. Moderated interview-styled conversations between participants on Zoom.
 
-Methodology: [Presentation]("https://drive.google.com/drive/u/0/folders/18mZrvEdIEXfJYCKdb898DGBUKXbeCLdQ") 
+**Methodology**: [Presentation]("https://drive.google.com/drive/u/0/folders/18mZrvEdIEXfJYCKdb898DGBUKXbeCLdQ") 
 
 **Volunteer**: Continued to run participants for the above study on Zoom.
 
