@@ -8,9 +8,9 @@ location: "Kelowna, BC"
 ---
 
 ### Honours Student (PSYO 490B)
+[Find my full thesis here](https://drive.google.com/file/d/1XuwPlYBheDrBBOwsx1D_413EhX-9G1Wf/view?usp=sharing).
 Studied individual differences contributing to COVID-19 vaccine hesitancy and
 conspiracy beliefs. Conducted literature reviews, compiled measures, and developed questionnaires using Qualtrics.
-
 Created consent and debriefing forms. Considered appropriate statistical tests for analysis, and conducted data analysis. Presented the results in two conferences, and completed an honors thesis manuscript. Here are the the presentations with findings:\
 [Psychology Undergraduate Research Conference](https://drive.google.com/file/d/1H3_cQqEXI-ayrUqMcpX_3JuEt053oTNw/view?usp=drive_link "Differing Opinions: COVID-19")\
 Interdisciplinary Student Health Conference 
