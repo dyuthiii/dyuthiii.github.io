@@ -12,7 +12,7 @@ location: "New York City, NY"
 *Role*: Working on leveraging Machine learning and Natural Language Processing techniques to develop an AI-based mental health intervention.  
 *Learning Outcomes*: Python, Data Analysis, Machine Learning
 
-### Research Assistant, [https://cognitivemedialab.ucsd.edu/](Cognitive Media Lab) (University of California, San Diego collaboration)
+### Research Assistant, [Cognitive Media Lab](https://cognitivemedialab.ucsd.edu/), (Collaboration with University of California, San Diego)
 *Project*: (MA Thesis) Misinformation Propagartion on Social Media
 *Role*: Analyzing quantitative and qualitative data through rigorous modeling techniques (Machine Learning, Social Networks analysis) to pinpoint key predictors driving the spread of misinformation on social media platforms regarding COVID-19. 
 *Learning Outcomes*: Web Scraping, Python, Data Analysis, Social Networks Analysis
