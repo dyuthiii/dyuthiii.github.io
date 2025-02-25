@@ -6,7 +6,7 @@ date: 2019-09-01
 venue: "University of British Columbia"
 location: "Kelowna, BC"
 ---
-### Research Assistant with Dr. Carolyn Szostak
+## Research Assistant with Dr. Carolyn Szostak
 **Honours Student (PSYO 490B)**
 [Find my full thesis here](https://drive.google.com/file/d/1XuwPlYBheDrBBOwsx1D_413EhX-9G1Wf/view?usp=sharing).
 Studied individual differences contributing to COVID-19 vaccine hesitancy and
@@ -27,7 +27,7 @@ Scientific writing, Data analyses, Quantitative method, Statistical testing, SPS
 Working independently, Holistic research skills.
 
 
-### Directed Studies Student (PSYO 481A)
+## Directed Studies Student (PSYO 481A)
 Helped design a study to facilitate lie and truth conditions during a dyadic
 conversation to evaluate deception detection in real-life conversations. Presented the study design and methods to the
 research team. Moderated interview-styled conversations between participants on Zoom.
@@ -40,7 +40,7 @@ research team. Moderated interview-styled conversations between participants on 
 a lab, Communication skills, Deception research, Literature review, Teamwork, and Working independently.
 
 
-### The Health Psychology Lab
+## The Health Psychology Lab
 **Volunteer**: Ran participants for the ”Lean on Me” study which studied the effects of social support on stress. Collected
 data on tweet deck for a Twitter-based study exploring the use of crisis text line. Collected data from Facebook for a
 study based on chronic fatigue syndrome and the emotions expressed on Facebook posts.
