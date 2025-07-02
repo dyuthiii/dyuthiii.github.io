@@ -2,7 +2,7 @@
 title: "Columbia Business School"
 type: research
 permalink: /research/Columbia_ Business_School
-date: 2025-06-01
+date: 2025-06-09
 venue: "Columbia Business School"
 location: "New York City, NY"
 ---
