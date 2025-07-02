@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Find my latest CV here [February 2025](https://drive.google.com/file/d/1s7gJkLR3vRmIMWUqOWaOwAxbHWqP-bsW/view?usp=sharing)
+Find my latest CV here [June 2025](https://drive.google.com/file/d/1b-pOK1jEU32hGLWh6f4lvNeG2VamJtxo/view?usp=drive_link)
 
