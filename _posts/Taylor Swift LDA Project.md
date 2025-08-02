@@ -1,0 +1,46 @@
+# Taylor Swift Lyrics LDA
+![Project Permalink:](https://github.com/dyuthiii/Fun-Projects/tree/02fcba670e6a80830c399657e1e4a8f849a63092/Taylor%20Swift%20Albums%20LDA)
+## Word Frequencies (Bigrams)
+
+So you know how everyone says Taylor Swift songs are all the same?  
+Well, let's test that, shall we?
+
+First, let's look at the most common word pairs (bigrams) in each album.  
+I used bigrams because unigrams returned very generic words, and trigrams repeated lyrics too much.
+
+![Album Word Visualization](images/album_word.png)
+
+## The Moment You've Been Waiting For: LDA
+
+Okay... now for the LDA!  
+
+I expected there to be **three** main themes in Taylor Swift's discography.  
+Even though GridSearch said that a single component was the best model (okay, okay, all you naysayers may have been right...), I still believe there's more nuance in her broader lyrical themes.  
+So I forced the LDA model to use 3 topics.
+
+As a fan, I hypothesized these rough groupings:
+- **Love** – e.g., *Taylor Swift*, *Speak Now*, *Red*, *Lover*
+- **Revenge/Anger** – e.g., *Reputation*, *Red*, *Midnights*, *Folklore*
+- **Existentialism/Awe** – e.g., *Folklore*, *Evermore*, *Midnights*, *TTPD*
+
+Here's what the topic-document matrix revealed:
+
+![Topic-Document Matrix](images/album_lda.png)
+
+### Observations
+
+- **Topic 1**: 1989 and Speak Now converge here — upbeat, exciting love vibes.
+- **Topic 2**: Folklore, Lover, Midnights, Debut (Taylor Swift), and Evermore cluster here — reflective, existential, awe-filled themes.
+- **Topic 3**: Fearless, Red, Reputation, and TTPD cluster here — more intense, bitter, or vengeful themes.
+
+### Possible Topic Interpretations
+
+- **Topic 1**: Exciting/New Love  
+- **Topic 2**: Existentialism / Awe  
+- **Topic 3**: Anger / Revenge / Bitterness  
+
+TTPD, with its massive tracklist, definitely shows up where the bitterness simmers.
+
+---
+
+🧠 TL;DR: Taylor Swift is more thematically diverse than people give her credit for.
