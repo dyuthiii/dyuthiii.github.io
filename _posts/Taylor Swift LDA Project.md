@@ -1,3 +1,13 @@
+---
+title: 'Taylor Swift Lyrics LDA'
+date: 2025-08-02
+permalink: /posts/2025/08/Taylor Swift LDA Project/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # Taylor Swift Lyrics LDA
 ![Project Permalink:](https://github.com/dyuthiii/Fun-Projects/tree/02fcba670e6a80830c399657e1e4a8f849a63092/Taylor%20Swift%20Albums%20LDA)
 ## Word Frequencies (Bigrams)
