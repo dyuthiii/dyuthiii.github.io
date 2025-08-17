@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 [![Static Badge](https://img.shields.io/badge/Dyuthi's_Portfolio-yellow?style=for-the-badge&logoColor=violet)](https://github.com/dyuthiii/Portfolio-Guide/blob/main/README.md)
-[![Static Badge](https://img.shields.io/badge/Dyuthi's_Website-purple?style=for-the-badge&logoColor=violet)](https://dyuthiii.github.io)
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyuthi-dinesh-3991bb127/)
 [![Static Badge](https://img.shields.io/badge/Kaggle-cyan?style=for-the-badge&logoColor=violet)](https://www.kaggle.com/dyuthiii)
 
