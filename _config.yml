@@ -27,7 +27,7 @@ author:
   bio              : "Research enthusiast" 
   location         : "New York, NY; Bangalore, India"
   employer         : "Columbia University"
-  uri              : # URL
+  uri              : "https://github.com/dyuthiii/Portfolio-Guide/blob/main/README.md"
   email            : "dyuthinirupama@gmail.com" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "dyuthiii"
-  kaggle           : # Username  
+  kaggle           : "dyuthiii"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
