@@ -9,7 +9,7 @@ location: "New York City, NY"
 
 
 ### Academic Research
-1. Condcted a persona-based analysis for COVID-19 misinformation sharing on social media, particularly on sites like Twitter. Identified key persona traits (psychological, social and political) which could influence greater misinformation engagement and sharing. 
+1. Conducted a persona-based analysis for COVID-19 misinformation sharing on social media, particularly on sites like Twitter. Identified key persona traits (psychological, social and political) which could influence greater misinformation engagement and sharing. 
 2. Working on papers evaluating the use of LLMs for pharmaceutical use.
 
 ### Red-teaming & Data Analysis
