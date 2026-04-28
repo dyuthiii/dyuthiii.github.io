@@ -17,8 +17,8 @@ skills, Research design, Testing efficacy, Mixed-method approaches, Qualitative 
 search paper writing, R programming, Scientific writing, Presentation skills, Communication skills, Time management
 skills, Independent work, Teamwork, and Teaching.
 
-## Projects
-### Papers
+### Projects
+#### Papers
 *[Language Adaptations of Mental Health Interventions](https://pubmed.ncbi.nlm.nih.gov/38798884/)*
 Conducted all analyses in this paper, and was the primary author for this paper. 
 
@@ -31,14 +31,14 @@ Conducted all data cleaning and descriptive and inferential analyses (including 
 *A Randomized Controlled Trial (RCT) involving Wysa in Hindi*
 Conducted all data cleaning and feasibility and demographic analyses (including conceptualization of RCT organization and analyses). 
 
-### Wysa Reports
+#### Wysa Reports
 *[Global Employee Mental Health Report](http://www.wysa.com/2023-emhr)*: Independently conducted all the data analysis for the report (including conceptualization of analyses).
 
 *[The Role of AI in Crisis Report](https://www.wysa.com/role-of-ai-in-sos)*: Independently conducted all the data analysis required for this report.
 
 *[AI in Mental Health Report](https://www.wysa.com/conversational-ai)*: Helped with literature review.
 
-### Client Reports
+#### Client Reports
 Singapore's Ministry of Health and Transportation (MOHT): Conducted quarterly data analysis and composed reports on client's anonymized users.
 
 BOSCH: Conducted Data analysis about Wysa uptake which was pivotal in the renewal of the contract. 
@@ -51,7 +51,7 @@ CHN: Carried out weekly data cleaning.
 
 UCSF: Carried out monthly data cleaning, and data analysis for monthly reports to the client.
 
-### Internal Projects
+#### Internal Projects
 R-Training: Led an R-training session for the research team. Recorded to train future employees as well.
 
 Demographics: Put together a full report of Wysa user's demographics (where collected) to explore usage.

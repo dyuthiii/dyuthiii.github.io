@@ -7,15 +7,16 @@ venue: "Columbia University"
 location: "New York City, NY"
 ---
 
-### Data scientist/ML Engineer, Columbia University 
-*Project*: (Practicum) Mental Health Venture Collaboration
-*Role*: Working on leveraging Machine learning and Natural Language Processing techniques to develop an AI-based mental health intervention.  
-*Learning Outcomes*: Python, Data Analysis, Machine Learning
 
 ### Research Assistant, [Cognitive Media Lab](https://cognitivemedialab.ucsd.edu/), (Collaboration with University of California, San Diego)
 *Project*: (MA Thesis) Misinformation Propagartion on Social Media
 *Role*: Analyzing quantitative and qualitative data through rigorous modeling techniques (Machine Learning, Social Networks analysis) to pinpoint key predictors driving the spread of misinformation on social media platforms regarding COVID-19. 
 *Learning Outcomes*: Web Scraping, Python, Data Analysis, Social Networks Analysis
+
+### Data scientist/ML Engineer, Columbia University 
+*Project*: (Practicum) Mental Health Venture Collaboration
+*Role*: Working on leveraging Machine learning and Natural Language Processing techniques to develop an AI-based mental health intervention.  
+*Learning Outcomes*: Python, Data Analysis, Machine Learning
 
 ### Research Assistant, Political Science Department, Columbia University
 *Project*: Studying the influence of bot utilization by politicians on social media, and its effects on financial contributions and political outcomes.

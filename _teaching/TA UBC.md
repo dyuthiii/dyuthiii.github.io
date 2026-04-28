@@ -8,7 +8,7 @@ venue: "University of British Columbia"
 location: "Kelowna, BC"
 ---
 
-## Undergraduate Teaching Assistant
+### Undergraduate Teaching Assistant
 Worked as a Teaching Assistant for undergraduate psychology, statistics, and data analysis courses. Hosted review sessions. Graded assignments. Invigilated examinations. Helped students with subject matter during office hours: statistics and basic psychology concepts. Taught research methods and basic psychological and research concepts.
 
 **January 2022 - April 2022**
