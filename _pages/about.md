@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dyuthi Dinesh, a researcher and data enthusiast with an MA in Quantitative Methods 
-in the Social Sciences from Columbia University.
+I'm Dyuthi Dinesh, a researcher and data enthusiast with an MA. in Quantitative Methods 
+in the Social Sciences from Columbia University, and a B.Sc. (Hons) in Psychology from the University of British Columbia.
 
 My work sits at the intersection of clinical research, computational social science, and AI. 
 I'm drawn to research that has real social impact: my interests span mental health and 
