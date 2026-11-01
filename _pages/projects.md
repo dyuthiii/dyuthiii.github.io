@@ -14,7 +14,7 @@ Scraped Snopes fact-check articles from January to July 2025, then built a TF-ID
 
 *Tools*: Python, Beautiful Soup, scikit-learn, Tableau
 
-<a href="https://github.com/dyuthiii/Snopes" target="_blank">Code</a> | <a href="https://public.tableau.com/views/SnopesTableauViz/Dashboard1" target="_blank">Dashboard</a>
+<a href="https://github.com/dyuthiii/Snopes" target="_blank">Code</a> &middot; <a href="https://public.tableau.com/views/SnopesTableauViz/Dashboard1" target="_blank">Dashboard</a>
 
 ### Political Contributions Database
 Used the FEC's API to scrape financial contributions to politicians from January 2022 to November 2024, and stored them in a queryable relational database.
@@ -35,4 +35,4 @@ Used Latent Dirichlet Allocation on lyrics to test whether all of Taylor Swift's
 
 *Tools*: Python, gensim, spaCy, NLTK
 
-<a href="https://github.com/dyuthiii/Taylor-Swift-Albums-LDA" target="_blank">Code</a> | <a href="{{ base_path }}/posts/2025/08/2025-08-01-blog-post-3/">Blog post</a>
+<a href="https://github.com/dyuthiii/Taylor-Swift-Albums-LDA" target="_blank">Code</a> &middot; <a href="{{ base_path }}/posts/2025/08/2025-08-01-blog-post-3/">Blog post</a>

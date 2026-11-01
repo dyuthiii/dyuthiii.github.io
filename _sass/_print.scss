@@ -15,4 +15,18 @@
   .page__footer {
     display: none;
   }
+
+  /* print dark text on white, whatever the screen theme */
+  *,
+  *:before,
+  *:after {
+    color: #000 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
+  html {
+    color-scheme: light;
+    background: #fff !important;
+  }
 }

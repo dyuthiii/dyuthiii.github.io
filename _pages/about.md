@@ -27,7 +27,7 @@ I've been a teaching assistant since undergrad — for psychology and statistics
 more recently for Natural Language Processing and Applied Data Science at Columbia University, which I genuinely 
 loved. Teaching has always felt like a natural extension of doing research, and helping students understand and love research (like I do!) has always been a passion of mine. 
 
-When I'm not working, I'm usually gaming, crocheting, or reading. Animals are a big part 
+When I'm not working, I'm usually gaming, playing Dungeons & Dragons, crocheting, or reading. Animals are a big part 
 of my life too! I've rescued and cared for quite a few over the years, and the highlight of my life has been caring for my pug,
 Milo, who also had very strong opinions about social science research.
 
