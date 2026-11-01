@@ -3,15 +3,20 @@ title: "University of British Columbia"
 type: research
 permalink: /research/UBC
 date: 2019-09-01
+period: "September 2019 - September 2022"
+order: 7
 venue: "University of British Columbia"
 location: "Kelowna, BC"
+excerpt: "Undergraduate research across four labs, including an honours thesis on COVID-19 vaccine hesitancy and conspiracy beliefs."
 ---
-### Research Assistant with Dr. Carolyn Szostak
+### Dr. Carolyn Szostak's Lab
+**September 2020 - September 2022**
+
 **Honours Student (PSYO 490B)**
 [Find my full thesis here](https://drive.google.com/file/d/1XuwPlYBheDrBBOwsx1D_413EhX-9G1Wf/view?usp=sharing).
 Studied individual differences contributing to COVID-19 vaccine hesitancy and
 conspiracy beliefs. Conducted literature reviews, compiled measures, and developed questionnaires using Qualtrics.
-Created consent and debriefing forms. Considered appropriate statistical tests for analysis, and conducted data analysis. Presented the results in two conferences, and completed an honors thesis manuscript. Here are the the presentations with findings:\
+Created consent and debriefing forms. Considered appropriate statistical tests for analysis, and conducted data analysis. Presented the results in two conferences, and completed an honors thesis manuscript. My PURC talk received the Best Honours Presentation award. Here are the presentations with findings:\
 [Psychology Undergraduate Research Conference](https://drive.google.com/file/d/1H3_cQqEXI-ayrUqMcpX_3JuEt053oTNw/view?usp=drive_link "Differing Opinions: COVID-19")\
 Interdisciplinary Student Health Conference 
 
@@ -27,12 +32,14 @@ Scientific writing, Data analyses, Quantitative method, Statistical testing, SPS
 Working independently, Holistic research skills.
 
 
-### Directed Studies Student (PSYO 481A)
-Helped design a study to facilitate lie and truth conditions during a dyadic
+### The Truth and Trust Lab
+**January 2020 - April 2022**
+
+**Directed Studies Student (PSYO 481A)**: Helped design a study to facilitate lie and truth conditions during a dyadic
 conversation to evaluate deception detection in real-life conversations. Presented the study design and methods to the
 research team. Moderated interview-styled conversations between participants on Zoom.
 
-**Methodology**:  [Presentation]("https://drive.google.com/drive/u/0/folders/18mZrvEdIEXfJYCKdb898DGBUKXbeCLdQ") 
+**Methodology**:  [Presentation](https://drive.google.com/drive/u/0/folders/18mZrvEdIEXfJYCKdb898DGBUKXbeCLdQ) 
 
 **Volunteer**: Continued to run participants for the above study on Zoom.
 
@@ -40,7 +47,15 @@ research team. Moderated interview-styled conversations between participants on 
 a lab, Communication skills, Deception research, Literature review, Teamwork, and Working independently.
 
 
+### The Psychopathology Lifespan and Neuropsychology (PLAN) Lab
+**September - December 2019; October 2020 - February 2021**
+
+**Volunteer**: Ran participants for the "Gratitude study", which evaluated the effects of gratitude-focused mindfulness on body image perceptions.
+
+
 ### The Health Psychology Lab
+**September 2019 - February 2020**
+
 **Volunteer**: Ran participants for the ”Lean on Me” study which studied the effects of social support on stress. Collected
 data on tweet deck for a Twitter-based study exploring the use of crisis text line. Collected data from Facebook for a
 study based on chronic fatigue syndrome and the emotions expressed on Facebook posts.

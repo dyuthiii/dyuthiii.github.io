@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Teaching"
-permalink: /teaching/TA
+permalink: /teaching/TA-UBC
 date: 2020-09-01
 venue: "University of British Columbia"
 location: "Kelowna, BC"

@@ -10,3 +10,7 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Old CV versions: kept locally, not published
+files/Dyuthi_CV_*
+files/Dyuthi_Resume*
