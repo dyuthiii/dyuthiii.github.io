@@ -14,7 +14,7 @@ Scraped Snopes fact-check articles from January to July 2025, then built a TF-ID
 
 *Tools*: Python, Beautiful Soup, scikit-learn, Tableau
 
-<a href="https://github.com/dyuthiii/Snopes" target="_blank">Code</a> &middot; <a href="https://public.tableau.com/views/SnopesTableauViz/Dashboard1" target="_blank">Dashboard</a>
+<a href="https://github.com/dyuthiii/Snopes" target="_blank">Code</a> &middot; <a href="https://www.kaggle.com/datasets/dyuthiii/snopes-articles-jan-jul-2025" target="_blank">Kaggle dataset</a> &middot; <a href="https://public.tableau.com/views/SnopesTableauViz/Dashboard1" target="_blank">Dashboard</a>
 
 ### Political Contributions Database
 Used the FEC's API to scrape financial contributions to politicians from January 2022 to November 2024, and stored them in a queryable relational database.
